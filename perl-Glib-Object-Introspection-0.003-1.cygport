@@ -1,0 +1,4 @@
+inherit gtk2-perl
+
+# EU:MM does not find -lffi because it is in gcc's libdir
+MAKEOPTS+=" OTHERLDFLAGS=$(${CC} -print-file-name=libffi.dll.a)"
