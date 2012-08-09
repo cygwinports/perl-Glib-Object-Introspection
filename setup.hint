@@ -1,6 +1,0 @@
-category: Perl Gnome
-requires: libffi4 libgirepository1.0_1 libglib2.0_0 perl perl-Glib
-sdesc: "Perl bindings for GObject Introspection"
-ldesc: "This module provides perl access to Glib and GLib's GObject 
-libraries.  GLib is a portability and utility library; GObject provides 
-a generic type system with inheritance and a powerful signal system."
