@@ -1,7 +1,7 @@
 inherit gtk2-perl
 
 NAME="perl-Glib-Object-Introspection"
-VERSION=0.022
+VERSION=0.028
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl interface for GObject Introspection"
